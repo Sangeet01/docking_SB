@@ -44,3 +44,12 @@ python dockingsb.py
 ## License
 
 MIT License (see `LICENSE`).
+
+## Contributing
+
+Fork, edit, and submit a pull request—keep it simple and functional.
+
+##
+
+PPS: Sangeet’s the name, a daft undergrad splashing through chemistry and code like a toddler—my titrations are a mess, and I’ve used my mouth to pipette.
+
