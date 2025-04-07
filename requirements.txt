@@ -1,0 +1,8 @@
+# Requires Python 3.10 or higher
+python>=3.10
+# HTTP requests library
+requests>=2.28.1
+# Open Babel Python bindings (Pybel) for molecular format conversion
+pybel>=2.0.0
+# Optional: ensure Open Babel CLI is installed separately (e.g., via conda)
+# openbabel>=3.1.1 (not a pip package, install via conda or system package manager)
