@@ -1,4 +1,4 @@
-# DockingSB
+## DockingSB
 
 DockingSB: A Python script for batch docking ligands against receptors using external services.
 
